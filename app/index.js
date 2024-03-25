@@ -35,7 +35,6 @@ const query =
             dismissReason
             dismissComment
             fixedAt
-            fixReason
             dependencyScope
             repository{
               name

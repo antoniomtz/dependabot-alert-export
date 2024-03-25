@@ -134,10 +134,6 @@ const query =
     value: 'fixedAt'
   },
   {
-    label: 'Fix Reason',
-    value: 'fixReason'
-  },
-  {
     label: 'Manifest File Path',
     value: 'vulnerableManifestPath'
   },
